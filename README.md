@@ -1,4 +1,4 @@
-Hola!!, somos el equipo de desarrollo conformado por Dante Ivan Saucedo Luna, Hector Alcaraz Calderon, Marco Antonio Aviña Jimenez y Javier Vazquez Mendoza.
+Hola!!, somos el equipo de desarrollo conformado por Erika Sarahi Maldonado Arzate y Astrid Johana Villegas Garcia.
 Nos complace presentar nuestro proyecto: la aplicación móvil SIGO (Sistema Integral de Gestión y Operación).
 
 ¿Qué hace nuestra App? SIGO es una herramienta diseñada para simplificar la vida académica del estudiante. 
